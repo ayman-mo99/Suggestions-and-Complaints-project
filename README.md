@@ -24,6 +24,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 I receive data from local server at http://localhost:5000
 
 
-## BackEnd 
+## DataBase 
 ### Stack Used:
 * MySQL
